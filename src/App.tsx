@@ -1,7 +1,11 @@
 import { useState } from "react";
+
 import styles from "./App.module.css";
 import "./global.css";
+
 import { Avatar } from "./components/Avatar";
+import { LinksList } from "./components/LinksList";
+import { Footer } from "./components/Footer";
 
 import DarkThemeAvatar from "/src/assets/avatar.jpg";
 import LightThemeAvatar from "/src/assets/avatar-light.jpg";
@@ -27,6 +31,9 @@ function App() {
         <button></button>
         <span></span>
       </div>
+
+      <LinksList />
+      <Footer />
     </div>
   );
 }
