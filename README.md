@@ -4,7 +4,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/ThiagoCordeiro52/aesthetics-alana?style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ThiagoCordeiro52/aesthetics-alana?style=for-the-badge">
   <a href="https://github.com/ThiagoCordeiro52">
-    <img alt="Made by Thiago Oliveira" src="https://img.shields.io/badge/feito%20por-Thiago Oliveira-%237519C1?style=for-the-badge">
+    <img alt="Made by Thiago Oliveira" src="https://img.shields.io/badge/feito%20por-Thiago Cordeiro-%237519C1?style=for-the-badge">
   </a>
   <img alt="License of the project" src="https://img.shields.io/cocoapods/l/m?style=for-the-badge"/>
 <p>
@@ -43,7 +43,7 @@ The following tools were used in the construction of the project:
 ### :computer: Deploy
 
 <h4 align="center"> 
-	See the running project: <a href="https://estetica-alana-lima-links.vercel.app/">Aesthetics Alana Links/a>
+	See the running project: <a href="https://estetica-alana-lima-links.vercel.app/">Aesthetics Alana Links
 </h4>
 
 ### :boy: **Author**
@@ -56,8 +56,8 @@ The following tools were used in the construction of the project:
 
 Done with ❤️ by Thiago Cordeiro. 👋🏽 Contact me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago_Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-de-oliveira-cordeiro-32562b1b6/)](https://linkedin.com/in/thiagooliveiracordeiro/)
-[![Github Badge](https://img.shields.io/badge/-Thiago_Oliveira-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ThiagoCordeiro52)](https://github.com/ThiagoCordeiro52)
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago_Cordeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-de-oliveira-cordeiro-32562b1b6/)](https://linkedin.com/in/thiagooliveiracordeiro/)
+[![Github Badge](https://img.shields.io/badge/-Thiago_Cordeiro-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ThiagoCordeiro52)](https://github.com/ThiagoCordeiro52)
 
 </div>
 
